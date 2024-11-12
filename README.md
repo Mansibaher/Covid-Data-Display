@@ -1,7 +1,7 @@
 # Covid-Data-Display
 # COVID-19 Data Display Project
 
-This project is a Python-based data visualization tool focused on displaying COVID-19 data for India. It provides insights into the spread and current status of COVID-19 across various states in India through graphs and bar charts, facilitating a deeper understanding of the pandemic's impact.
+This project is a Python-based data visualization tool that displays COVID-19 data for India. Through graphs and bar charts, it provides insights into the spread and current status of COVID-19 across various states in India, facilitating a deeper understanding of the pandemic's impact.
 
 ## Table of Contents
 - [Introduction]
@@ -44,14 +44,5 @@ A new column, `NewCount`, is calculated as the difference between the "Confirmed
 2. **Bar Graphs**: Provides a state-wise comparison of COVID-19 case counts on a specific date.
 3. **User-Driven Visualization**: Users can select data for specific states and date ranges for personalized analysis.
 
-## Setup and Installation
 
-### Prerequisites
-- Python 3.x
-- `pandas` library
-- `matplotlib` library
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/covid-data-display.git
